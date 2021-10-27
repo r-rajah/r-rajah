@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @r-rajah
+- 👀 I’m interested in anything
+- 🌱 I’m currently learning Javascript, React etc
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me - Send me a notification
